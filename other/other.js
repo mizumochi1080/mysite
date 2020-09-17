@@ -28,7 +28,7 @@ Vue.component("other-item", {
         </div>
         <h2>このサイトを作った理由とか</h2>
         <div>
-        <ol>
+        <ul>
             <li>
             最近覚えているweb系の言語の練習も兼ねて、何かサイトを作ってみたかったから。
             </li>
@@ -38,7 +38,7 @@ Vue.component("other-item", {
             <li>
             このサイトに細かいことを書いておくことで、Twitterのプロフィール欄をすっきりさせたかったから
             </li>
-        </ol>
+        </ul>
         </div>
     </div>
     </main>
