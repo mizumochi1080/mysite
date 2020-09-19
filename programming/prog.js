@@ -22,7 +22,7 @@ Vue.component("prog-item", {
         <ul>
         <li>
             <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a> 茶色
-            440 (2020/07～)
+            Highest440 (2020/07～)
         </li>
         <li>paiza A 2000台 (2020/06～)</li>
         <li>Progate Lv285</li>
