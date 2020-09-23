@@ -24,8 +24,13 @@ Vue.component("prog-item", {
             <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a> 茶色
             Highest440 (2020/07～)
         </li>
-        <li>paiza A 2000台 (2020/06～)</li>
-        <li>Progate Lv285</li>
+        <li>
+            <a href="https://twitter.com/mizumochi1080/status/1288725556012314624">paiza</a>
+            A 2000台 (2020/06～)
+        </li>
+        <li>
+            <a href="https://twitter.com/mizumochi1080/status/1306215588470038529">Progate</a>
+            Lv285 (2020/06～)
         </ul>
         <h2>練習で作ってみたもの</h2>
         <ul>
@@ -77,6 +82,22 @@ Vue.component("prog-item", {
         <li>SQL</li>
         <li>PHP</li>
         </ul>
+        <h2>今までの経緯</h2>
+        <p>
+        学校でC言語を習う
+        <br />
+        web系の言語を習得したいと思い、HTML/CSS、JavaSriptをProgateで覚える
+        <br />
+        バックエンドも習得したいと思い、Ruby、Rails、SQLをProgateで覚える
+        <br />
+        Rubyの知識を深めるために、YouTubeを見てたときにちょうど知ったpaizaを始める
+        <br />
+        paizaのランカーがPythonで書いていることが多く、興味を持ったので、PythonをProgateで覚える
+        <br />
+        Pythonを使う人が多いAtCoderを始める
+        <br />
+        何かサイトやwebアプリを作ってみたいと思い、Vue.JS、React、Flaskを覚える
+        </p>
     </div>
     </main> 
   `,
