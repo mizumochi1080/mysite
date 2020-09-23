@@ -86,9 +86,9 @@ Vue.component("prog-item", {
         <p>
         学校でC言語を習う
         <br />
-        web系の言語を習得したいと思い、HTML/CSS、JavaSriptをProgateで覚える
+        web系の言語を習得したいと思い、HTML/CSS、JavaScriptをProgateで覚える
         <br />
-        バックエンドも習得したいと思い、Ruby、Rails、SQLをProgateで覚える
+        バックエンドも習得したいと思い、Ruby、Rails、MySQLをProgateで覚える
         <br />
         Rubyの知識を深めるために、YouTubeを見てたときにちょうど知ったpaizaを始める
         <br />
