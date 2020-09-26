@@ -62,7 +62,7 @@ Vue.component("prog-item", {
         <li>Python</li>
         <li>Flask</li>
         <li>Bootstrap</li>
-        <li>git</li>
+        <li>git/GitHub/Heroku</li>
         </ul>
         <h3>今後習得したいもの</h3>
         <ul>
