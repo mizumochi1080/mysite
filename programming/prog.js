@@ -92,11 +92,11 @@ Vue.component("prog-item", {
         <br />
         Rubyの知識を深めるために、YouTubeを見てたときにちょうど知ったpaizaを始める
         <br />
-        paizaのランカーがPythonで書いていることが多く、興味を持ったので、PythonをProgateで覚える
+        paizaのランカーがPythonで書いていることが多く、Pythonに興味を持ったのでProgateで学習し、Pythonを使う人が多いAtCoderを始める
         <br />
-        Pythonを使う人が多いAtCoderを始める
+        何かサイトやwebアプリを作ってみたいと思い、GitHub、Vue.JS、React、Flask、Herokuを覚える
         <br />
-        何かサイトやwebアプリを作ってみたいと思い、Vue.JS、React、Flaskを覚える
+        再びAtCoderを始める
         </p>
     </div>
     </main> 
