@@ -22,7 +22,7 @@ Vue.component("prog-item", {
         <ul>
         <li>
             <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a> 茶色
-            Highest440 (2020/07～)
+            Highest447 (2020/07～)
         </li>
         <li>
             <a href="https://twitter.com/mizumochi1080/status/1288725556012314624">paiza</a>
