@@ -30,7 +30,7 @@ Vue.component("prog-item", {
         </li>
         <li>
             <a href="https://twitter.com/mizumochi1080/status/1306215588470038529">Progate</a>
-            Lv285 (2020/06～)
+            Lv285 (2019/08～)
         </ul>
         <h2>練習で作ってみたもの</h2>
         <ul>
