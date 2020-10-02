@@ -25,6 +25,9 @@ Vue.component("nav-item", {
                 <a href="/mysite/tetris">Tetris</a>
             </li>
             <li class="btn">
+                <a href="/mysite/life">Life</a>
+            </li>
+            <li class="btn">
                 <a href="/mysite/other">Other</a>
             </li>
         </ul>
