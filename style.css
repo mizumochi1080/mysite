@@ -112,6 +112,7 @@ h2 {
 
 .containerTwitter {
   background-color: #eee;
+  border-radius: 20px;
   width: 150px;
   text-align: center;
 }
