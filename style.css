@@ -72,6 +72,10 @@ nav ul {
   display: block;
 }
 
+.active {
+  background-color: #fff;
+}
+
 main {
   border-left: 8px solid white;
   width: 100%;

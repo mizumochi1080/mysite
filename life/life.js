@@ -1,3 +1,6 @@
+const li = document.getElementById("life");
+li.classList.add("active");
+
 Vue.component("life-item", {
   template: `
   <main>

@@ -1,3 +1,6 @@
+const li = document.getElementById("tetris");
+li.classList.add("active");
+
 Vue.component("tetris-item", {
   template: `
   <main>

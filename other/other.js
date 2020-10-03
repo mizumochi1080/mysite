@@ -1,3 +1,6 @@
+const li = document.getElementById("other");
+li.classList.add("active");
+
 Vue.component("other-item", {
   template: `
   <main>

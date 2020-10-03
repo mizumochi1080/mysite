@@ -15,19 +15,19 @@ Vue.component("nav-item", {
     <label for="menu" class="back"></label>
     <nav>
         <ul>
-            <li class="btn">
+            <li class="btn" id="home">
                 <a href="/mysite">Home</a>
             </li>
-            <li class="btn">
+            <li class="btn" id="prog">
                 <a href="/mysite/programming">Programming</a>
             </li>
-            <li class="btn">
+            <li class="btn" id="tetris">
                 <a href="/mysite/tetris">Tetris</a>
             </li>
-            <li class="btn">
+            <li class="btn" id="life">
                 <a href="/mysite/life">Life</a>
             </li>
-            <li class="btn">
+            <li class="btn" id="other">
                 <a href="/mysite/other">Other</a>
             </li>
         </ul>

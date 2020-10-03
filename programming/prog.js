@@ -1,3 +1,6 @@
+const li = document.getElementById("prog");
+li.classList.add("active");
+
 Vue.component("prog-item", {
   template: `
   <main>
