@@ -28,13 +28,13 @@ Vue.component("tetris-item", {
         <h2>やってたもの</h2>
         <ul>
         <li>
-            <a href="https://tetr.io/">tetrio</a> テトラリーグ2100~2300glk
+            <a href="https://ch.tetr.io/u/mizumochi">tetrio</a>
         </li>
         <li>
-            <a href="https://ja.jstris.jezevec10.com/">Jstris</a>
+            <a href="https://jstris.jezevec10.com/u/mizumochi">Jstris</a>
         </li>
         <li>
-            <a href="http://tetrisonline.pl/">TOP</a>
+            <a href="http://tetrisonline.pl/top/profile.php?user=mizumochi">TOP</a>
         </li>
         </ul>
         <h2>40ラインとか</h2>
@@ -43,10 +43,10 @@ Vue.component("tetris-item", {
             <a href="https://ja.jstris.jezevec10.com/replay/18366986">
             Jstris
             </a>
-            31.941
+            31.941s
         </li>
         <li>
-            <a href="https://tetr.io/#R:4uk7oboVT">tetrio</a> 32.658
+            <a href="https://tetr.io/#R:4uk7oboVT">tetrio</a> 32.658s
         </li>
         </ul>
         <h2>今までの経緯</h2>
@@ -61,7 +61,7 @@ Vue.component("tetris-item", {
         <br />
         面白そうだったのでTOJを始めてオンラインで遊ぶ
         <br />
-        へぼまい、サマフ、Blink、あじゃんば、milk2の配信を見ながら火力の作り方とかを覚える
+        へぼまい、サマフ、Blink、あじゃんば、aitsu_k、milk2の配信を見ながら火力の作り方とかを覚える
         <br />
         -- 数年が経過 --
         <br />
