@@ -27,6 +27,9 @@ Vue.component("nav-item", {
             <li class="btn" id="life">
                 <a href="/mysite/life">Life</a>
             </li>
+            <li class="btn" id="pc">
+                <a href="/mysite/pc">PC</a>
+            </li>
             <li class="btn" id="other">
                 <a href="/mysite/other">Other</a>
             </li>
