@@ -40,10 +40,10 @@ Vue.component("tetris-item", {
         <h2>40ラインとか</h2>
         <ul>
         <li>
-            <a href="https://ja.jstris.jezevec10.com/replay/18366986">
+            <a href="https://ja.jstris.jezevec10.com/replay/23387040">
             Jstris
             </a>
-            31.941s
+            30.975s
         </li>
         <li>
             <a href="https://tetr.io/#R:4uk7oboVT">tetrio</a> 32.658s
