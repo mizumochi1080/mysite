@@ -24,16 +24,13 @@ Vue.component("prog-item", {
         <h2>取り組んだもの</h2>
         <ul>
         <li>
-            <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a> 茶色
-            Highest447 (2020/07～)
+            <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a>
         </li>
         <li>
             <a href="https://twitter.com/mizumochi1080/status/1288725556012314624">paiza</a>
-            A 2000台 (2020/06～)
         </li>
         <li>
             <a href="https://twitter.com/mizumochi1080/status/1306215588470038529">Progate</a>
-            Lv285 (2019/08～)
         </ul>
         <h2>練習で作ってみたもの</h2>
         <ul>
