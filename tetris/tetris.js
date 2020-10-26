@@ -37,18 +37,6 @@ Vue.component("tetris-item", {
             <a href="http://tetrisonline.pl/top/profile.php?user=mizumochi">TOP</a>
         </li>
         </ul>
-        <h2>40ラインとか</h2>
-        <ul>
-        <li>
-            <a href="https://ja.jstris.jezevec10.com/replay/23387040">
-            Jstris
-            </a>
-            30.975s
-        </li>
-        <li>
-            <a href="https://tetr.io/#R:4uk7oboVT">tetrio</a> 32.658s
-        </li>
-        </ul>
         <h2>今までの経緯</h2>
         <p>
         (人名敬称略)
