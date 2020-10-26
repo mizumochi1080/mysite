@@ -21,7 +21,7 @@ Vue.component("prog-item", {
         <br>
         競プロ・フルスタックエンジニア・人工知能に興味があります
         </p>
-        <h2>取り組んだもの</h2>
+        <h2>やってたもの</h2>
         <ul>
         <li>
             <a href="https://atcoder.jp/users/mizumochi1080">AtCoder</a>
@@ -95,8 +95,6 @@ Vue.component("prog-item", {
         paizaのランカーがPythonで書いていることが多く、Pythonに興味を持ったのでProgateで学習し、Pythonを使う人が多いAtCoderを始める
         <br />
         何かサイトやwebアプリを作ってみたいと思い、GitHub、Vue.JS、React、Flask、Herokuを覚える
-        <br />
-        再びAtCoderを始める
         </p>
     </div>
     </main> 
